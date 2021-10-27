@@ -5,7 +5,7 @@ using BaseLibrary.MarketData;
 
 namespace Strategy001
 {
-    public class CoinAllIn01 : IStrategy
+    public class Sample01Strategy : IStrategy
     {
         private MarketDataBridge marketDataBridge;
 
